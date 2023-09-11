@@ -13,7 +13,7 @@ header {
 .header {
     color: #FFF;
     text-align: right;
-    font-family: Work Sans;
+    
     font-size: 65px;
     font-weight: 700;
     width: 525px;
@@ -24,7 +24,7 @@ header {
     width: 494px;
     color: #FFF;
     text-align: right;
-    font-family: Work Sans;
+    
     font-size: 16px;
 
     font-weight: 400;
@@ -81,7 +81,7 @@ header {
     padding-top: 370px;
     width: 288px;
     color: var(--Dark-01, #151414);
-    font-family: Work Sans;
+    
     font-size: 40px;
 
     font-weight: 700;
@@ -93,7 +93,7 @@ header {
     margin-bottom: 16px;
     width: 416px;
     color: var(--Dark-02, #444343);
-    font-family: Work Sans;
+    
     font-size: 16px;
 
     font-weight: 400;
@@ -102,7 +102,7 @@ header {
 .poient {
     margin-left: 862px;
     color: var(--Dark-02, #444343);
-    font-family: Work Sans;
+   
     font-size: 16px;
 
     font-weight: 400;
