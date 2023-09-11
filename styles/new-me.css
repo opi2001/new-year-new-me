@@ -31,8 +31,10 @@ header {
     margin-left: 876px;
     margin-bottom: 32px;
 }
-.btn-position{
+
+.btn-position {
     margin-left: 1210px;
+
 }
 
 .btn-primary {
@@ -48,7 +50,8 @@ header {
     border: none;
     padding: 21px 25px 20px 26px;
     margin-bottom: 166px;
-    
+
+
 
 }
 
@@ -57,4 +60,50 @@ header {
     font-family: 'Inter', sans-serif;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
+}
+
+/* failure section */
+.failure {
+    
+    
+    margin-top: 140px;
+    background-image: url(../images/person.png);
+    background-repeat: no-repeat;
+    background-position-x: 25%;
+    background-size: contain 894px;
+
+}
+
+.failure-header {
+    
+    margin-left: 862px;
+    padding-top: 370px;
+    width: 288px;
+    color: var(--Dark-01, #151414);
+    font-family: Work Sans;
+    font-size: 40px;
+
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+.failure-discription {
+    margin-left: 862px;
+    margin-bottom: 16px;
+    width: 416px;
+    color: var(--Dark-02, #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+
+    font-weight: 400;
+}
+
+.poient {
+    margin-left: 862px;
+    color: var(--Dark-02, #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+
+    font-weight: 400;
+    margin-bottom: 8px;
 }
