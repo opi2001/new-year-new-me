@@ -1,4 +1,11 @@
 /* header styles */
+* {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+
+}
 
 header {
     background-image: url(../images/banner/banner3.png);
@@ -55,13 +62,7 @@ header {
 
 }
 
-* {
-    margin: 0;
-    font-family: 'Inter', sans-serif;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Work Sans', sans-serif;
 
-}
 
 /* failure section */
 .failure {
