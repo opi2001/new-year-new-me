@@ -64,18 +64,18 @@ header {
 
 /* failure section */
 .failure {
-    
-    
+
+
     margin-top: 140px;
     background-image: url(../images/person.png);
     background-repeat: no-repeat;
-    background-position-x: 25%;
+    background-position-x: 20%;
     background-size: contain 894px;
 
 }
 
 .failure-header {
-    
+
     margin-left: 862px;
     padding-top: 370px;
     width: 288px;
@@ -106,4 +106,41 @@ header {
 
     font-weight: 400;
     margin-bottom: 8px;
+}
+
+/* plan styles */
+.plan-header {
+    margin-top: 140px;
+    text-align: center;
+    color: var(--Dark-01, #151414);
+    font-size: 40px;
+
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.plan-container {
+    display: flex;
+    justify-content: center;
+    gap: 99px;
+
+}
+
+.planning-header {
+    margin-top: 24px;
+    margin-bottom: 16px;
+    color: var(--Dark-01, #151414);
+    
+    font-size: 30px;
+
+    font-weight: 700;
+}
+
+.plan-discription {
+    color: var(--Dark-03, #737272);
+    
+    
+    font-size: 25px;
+    
+    font-weight: 500;
 }
